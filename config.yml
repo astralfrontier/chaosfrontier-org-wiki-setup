@@ -1,6 +1,5 @@
 title: Chaos Frontier
-host: http://chaosfrontier.org
-# TODO SSL
+host: https://chaosfrontier.org
 
 port: 3000
 
